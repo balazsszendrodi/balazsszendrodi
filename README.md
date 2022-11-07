@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! My name is Balázs Szendrődi 👋
+I currently studey Computer Engineering at Óbuda University
 <!--
 **balazsszendrodi/balazsszendrodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
